@@ -1,0 +1,7 @@
+Hier befinden sich alle relevanten Jupyter-Notebooks. 
+In diesen wiederum sind Tutorials und Beispiele aufgeführt.
+
+In dem Ordner "homebrew" befindet sich eine Projektarbeit die sich mit dem automatisierten finden eines passenden Modells via Grid-Search beschäftigt. 
+Auch die Evaluation spielt dabei eine Rolle.
+
+
